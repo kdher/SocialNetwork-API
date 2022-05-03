@@ -1,6 +1,6 @@
 # 18 NoSQL: Social Network API
 
- Deployed Video: 
+ Deployed Video: https://drive.google.com/file/d/17GKLgWf-Ifz4F7LbYcRLwjXrCnKGAn3g/view?usp=sharing
 ## Description
 
 MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. 
@@ -57,6 +57,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Mock Up
 
 The following animations show examples of the application's API routes being tested in Insomnia.
-![image](./Assets/image.png)
+![image](./public/images/users.jpg)
+![image](./public/images/newuser.jpg)
+![image](./public/images/thoughts.jpg)
+![image](./public/images/newthught.jpg)
 ## Licencia
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
